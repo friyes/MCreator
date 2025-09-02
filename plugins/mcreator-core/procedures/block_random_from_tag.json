@@ -4,6 +4,12 @@
       "type": "input_value",
       "name": "tag",
       "check": "String"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/b.png",
+      "width": 8,
+      "height": 36
     }
   ],
   "output": "MCItemBlock",
